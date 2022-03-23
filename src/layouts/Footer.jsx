@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="absolute text-gray-100 -translate-x-1/2 bottom-20 left-2/4">
+    <footer className="mt-16 text-center text-gray-100">
       Challenge by{" "}
       <a
         href="https://www.frontendmentor.io?ref=challenge"
